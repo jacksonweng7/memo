@@ -6,4 +6,3 @@
 ## 2 iguge插件下载
 * iguge版本：http://igghelper.com/soft/  或者：http://iguge.xyz/soft
 
-test
